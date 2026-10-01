@@ -1,3 +1,6 @@
+Archived: This project was an earlier in-progress lab. The completed and expanded version of this work is available in my Active Directory & Help Desk Lab.
+
+
 # Hybrid Active Directory + Microsoft Azure Lab
 
 A hands-on lab focused on building and administering a small corporate-style Windows environment using Active Directory Domain Services and Microsoft Azure.
